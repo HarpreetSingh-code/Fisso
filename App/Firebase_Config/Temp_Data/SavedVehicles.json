@@ -1,0 +1,38 @@
+[
+    {
+        "VehicleType":"Two",
+        "Vehicle":"Bajaj v15",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"CH01BJ8989"
+    },
+    {
+        "VehicleType":"Two",
+        "Vehicle":"Bajaj Avenger",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"CH08BH8888"
+    },
+    {
+        "VehicleType":"Four",
+        "Vehicle":"Suzuki DeZire",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"CH88BJ9656"
+    },
+    {
+        "VehicleType":"Four",
+        "Vehicle":"Ford Mustang GT350",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"PB88HJ1111"
+    },
+    {
+        "VehicleType":"Four",
+        "Vehicle":"Tesla Cyber Truck",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"J0K3R"
+    },
+    {
+        "VehicleType":"Two",
+        "Vehicle":"TVS Sports",
+        "Email":"Citizen.harpreetpanks@gmail.com",
+        "RegNum":"CPI09"
+    }
+]

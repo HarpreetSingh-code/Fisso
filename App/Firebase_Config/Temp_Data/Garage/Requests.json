@@ -1,0 +1,77 @@
+[
+    {
+        "VehicleName": "Bjaj V15",
+        "VehicleType": "Two",
+        "RegNum": "CH01BJ6767",
+        "UserName": "Harpreet Singh",
+        "UserMobile": "9501205790",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 0
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Insuarance",
+                "Price": 0
+            }
+        ]
+    },
+    {
+        "VehicleName": "Bajaj V15",
+        "VehicleType": "Two",
+        "RegNum": "PB99HS9898",
+        "UserName": "Santosh Kumar",
+        "UserMobile": "9878252245",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Balancing",
+                "Price": 0
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Brakeoil Replacement:",
+                "Price": 0
+            }
+        ]
+    },
+    {
+        "VehicleName": "Honda City",
+        "VehicleType": "Four",
+        "RegNum": "PB99KL8055",
+        "UserName": "Robin Singh Negi",
+        "UserMobile": "9658785458",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 0
+            }
+        ]
+    }
+]

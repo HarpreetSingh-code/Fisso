@@ -1,0 +1,163 @@
+{
+    "User1": {
+                "UserName": "Harpreet Singh",
+                "UserAvatar": " Path to user image",
+                "UserMobile": "9501205790",
+                "UserVehicles": [
+                                    { "VehicleType": "Two", "Vehicle": "Bajaj v15", "Email": "Citizen.harpreetpanks@gmail.com","RegNum": "CH01BJ8989" },
+                                    { "VehicleType": "Two", "Vehicle": "Bajaj Avenger", "Email": "Citizen.harpreetpanks@gmail.com", "RegNum": "CH08BH8888" }
+                                ],
+                "UserRequests":[
+                                        {
+                                            "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage","GarageAddress": "SCO 22, Sector 44,Chandigarh.",
+                                            "servicesDetails": [
+                                                                    { "ServiceName": "Wheel Alignment", "Price": 0 },
+                                                                    { "ServiceName": "COVID 19 Sanitaziation", "Price": 0 },
+                                                                    { "ServiceName": "Coolant Replacement:", "Price": 0 },
+                                                                    { "ServiceName": "Brakeoil Replacement", "Price": 0 },
+                                                                    { "ServiceName": "Engine Checkup", "Price": 0 },
+                                                                    { "ServiceName": "Insuarance", "Price": 0 }
+                                                                ]
+                                        },
+                                        { 
+                                            "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.",
+                                            "servicesDetails": [
+                                                                    { "ServiceName": "Wheel Balancing", "Price": 500 },
+                                                                    { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                                    { "ServiceName": "Brakeoil Replacement:", "Price": 2500 }
+                                                                ]
+                                        }
+                                   ],
+                "UserAppointments": [
+                                    { 
+                                        "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage","GarageAddress": "SCO 22, Sector 44,Chandigarh.", "AppointmentDateTime": "16/10/2020",
+                                        "servicesDetails": [
+                                                            { "ServiceName": "Wheel Alignment", "Price": 1000 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                            { "ServiceName": "Coolant Replacement:", "Price": 3250 },
+                                                            { "ServiceName": "Brakeoil Replacement", "Price": 760 },
+                                                            { "ServiceName": "Engine Checkup", "Price": 990 },
+                                                            { "ServiceName": "Insuarance", "Price": 780 }
+                                                        ]
+                                                        
+                                    },
+                                    { 
+                                        "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.", "AppointmentDateTime": "17/10/2020",
+                                        "servicesDetails": [
+                                                            { "ServiceName": "Wheel Balancing", "Price": 500 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                            { "ServiceName": "Brakeoil Replacement:", "Price": 2500 }
+                                                        ]
+                                    }
+                                ],
+                "UserHistory": [
+                                    { "ServiceStatus": "Completed", "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage", "GarageAddress": "SCO 22, Sector 44,Chandigarh.",
+                                    "AppointmentDate": "12/08/2020", "AppointmentTime": "08:00",
+                                    "servicesDetails": [
+                                                            { "ServiceName": "Wheel Alignment", "Price": 2500 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 1200 },
+                                                            { "ServiceName": "Coolant Replacement:", "Price": 3200 }
+                                                        ]
+                                    },
+                                    { "ServiceStatus": "Pending", "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.",
+                                        "AppointmentDate": "15/08/2020", "AppointmentTime": "13:00",
+                                        "servicesDetails": [
+                                                            { "ServiceName": "Wheel Balancing", "Price": 500 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 }
+                                                        ]
+                                    }
+                               ]
+            }
+},
+
+
+
+{
+    "Garage1":{
+                {
+                    "GarageName": "Bajaj Care",
+                    "GarageEmail": "bajajofficial@gmail.com",
+                    "GarageImage": "https://content3.jdmagicbox.com/comp/ambala/c2/9999p1732.1732.180208190032.j3c2/catalogue/kumar-automobile-bajaj-radaur-yamunanagar-garages-5mkt4okvwy.jpg?clr=1d3349",
+                    "GarageAddress": "#122, Sector 55, Chandigarh",
+                    "GarageOpen": "08:00 AM",
+                    "GarageClose": "10:00 AM",
+                    "OpenDays": "Mon, Tue, Wed, Thu, fri, Sat",
+                    "Latitude": 30.725961,
+                    "Longitude": 76.752159,
+                    "VehiclesType": "Two",
+                    "Vehicles": [ "Bajaj" ],
+                    "Services": [ "Air filter", "In line paper Filter", "Fuel Pipe", "Chain Cleaning and Lubrication", "Engine air breather tube", "Silencer Drain Hole cleaning",
+                        "Break pad Replacement", "Battery electrolyte level", "Handle bar control switches cleaning", "Main stand Side stand pin", "Coolant level check" ],
+                    "Jobs":[
+                            { 
+                                "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage","GarageAddress": "SCO 22, Sector 44,Chandigarh.", "Status": "Active",
+                                "servicesDetails": [
+                                                    { "ServiceName": "Wheel Alignment", "Price": 1000 },
+                                                    { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                    { "ServiceName": "Coolant Replacement:", "Price": 3250 },
+                                                    { "ServiceName": "Brakeoil Replacement", "Price": 760 },
+                                                    { "ServiceName": "Engine Checkup", "Price": 990 },
+                                                    { "ServiceName": "Insuarance", "Price": 780 }
+                                                ]
+                                                
+                            },
+                            { 
+                                "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.", "Status": "Completed",
+                                "servicesDetails": [
+                                                    { "ServiceName": "Wheel Balancing", "Price": 500 },
+                                                    { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                    { "ServiceName": "Brakeoil Replacement:", "Price": 2500 }
+                                                ]
+                            }
+                    ],
+                    "Requests":[
+                                {
+                                    "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage","GarageAddress": "SCO 22, Sector 44,Chandigarh.",
+                                    "servicesDetails": [
+                                                            { "ServiceName": "Wheel Alignment", "Price": 0 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 0 },
+                                                            { "ServiceName": "Coolant Replacement:", "Price": 0 },
+                                                            { "ServiceName": "Brakeoil Replacement", "Price": 0 },
+                                                            { "ServiceName": "Engine Checkup", "Price": 0 },
+                                                            { "ServiceName": "Insuarance", "Price": 0 }
+                                                        ]
+                                },
+                                { 
+                                    "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.",
+                                    "servicesDetails": [
+                                                            { "ServiceName": "Wheel Balancing", "Price": 0 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 0 },
+                                                            { "ServiceName": "Brakeoil Replacement:", "Price": 0 }
+                                                        ]
+                                }
+                    ],
+                    "Appointments":[
+                                    { 
+                                        "VehicleName": "Alto 800", "VehicleType": "Four", "RegNum": "CH01BJ6767", "GarageName": "Indian Garage","GarageAddress": "SCO 22, Sector 44,Chandigarh.", "AppointmentDateTime": "16/10/2020",
+                                        "servicesDetails": [
+                                                            { "ServiceName": "Wheel Alignment", "Price": 1000 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                            { "ServiceName": "Coolant Replacement:", "Price": 3250 },
+                                                            { "ServiceName": "Brakeoil Replacement", "Price": 760 },
+                                                            { "ServiceName": "Engine Checkup", "Price": 990 },
+                                                            { "ServiceName": "Insuarance", "Price": 780 }
+                                                        ]
+                                                        
+                                    },
+                                    { 
+                                        "VehicleName": "Bajaj V15", "VehicleType": "Two", "RegNum": "PB99HS9898", "GarageName": "Bajaj Service Center", "GarageAddress": "SCO 91, Industrial Area, Chandigarh.", "AppointmentDateTime": "17/10/2020",
+                                        "servicesDetails": [
+                                                            { "ServiceName": "Wheel Balancing", "Price": 500 },
+                                                            { "ServiceName": "COVID 19 Sanitaziation", "Price": 2000 },
+                                                            { "ServiceName": "Brakeoil Replacement:", "Price": 2500 }
+                                                        ]
+                                    }
+                                  ]
+                },
+
+              }
+}
+
+
+
+

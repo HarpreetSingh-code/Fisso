@@ -1,0 +1,270 @@
+[
+    {
+        "UserDetails": [
+            {
+                "UserName": "Harpreet Singh",
+                "Email": "Hsingh7743@gmail.com",
+                "Vehicle": "Honda City",
+                "RegNum": "CH01BJ9889"
+            }
+        ],
+        "GarageDetails": [
+            {
+                "GarageName": "Honda Care ",
+                "GarageEmail": "hondaofficial@gmail.com",
+                "GarageAddress": "#723, Sector 43, Chandigarh"
+            }
+        ],
+        "SelectedServices": [
+            {
+                "ServiceName": "CNG Kit Installation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Full Body Dent Paint",
+                "Price": 2200
+            },
+            {
+                "ServiceName": "Horn Replacement",
+                "Price": 2900
+            },
+            {
+                "ServiceName": "Rear Windshield Replacement",
+                "Price": 1300
+            },
+            {
+                "ServiceName": "Front Windshield Replacement",
+                "Price": 1400
+            },
+            {
+                "ServiceName": "Door Glass Replacement",
+                "Price": 1100
+            },
+            {
+                "ServiceName": "Disc Turning",
+                "Price": 400
+            },
+            {
+                "ServiceName": "Clutch OverHaul",
+                "Price": 4000
+            },
+            {
+                "ServiceName": "Steering Overhaul",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Front Suspension Overhaul",
+                "Price": 3030
+            },
+            {
+                "ServiceName": "Car Engine Issues",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Problem With Car Brakes and Wheels",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Clutch and Transmission Problems",
+                "Price": 3300
+            },
+            {
+                "ServiceName": "Noise with Car suspension and steering",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Faulty Electricals",
+                "Price": 3300
+            },
+            {
+                "ServiceName": "Damaged car body and Interiors",
+                "Price": 12000
+            }
+        ]
+    },
+    {
+        "UserDetails": [
+            {
+                "UserName": "Harpreet Singh",
+                "Email": "Hsingh7743@gmail.com",
+                "Vehicle": "Honda City",
+                "RegNum": "CH01BJ9889"
+            }
+        ],
+        "GarageDetails": [
+            {
+                "GarageName": "Honda Care ",
+                "GarageEmail": "hondaofficial@gmail.com",
+                "GarageAddress": "#723, Sector 43, Chandigarh"
+            }
+        ],
+        "SelectedServices": [
+            {
+                "ServiceName": "Front Windshield Replacement",
+                "Price": 1400
+            },
+            {
+                "ServiceName": "Door Glass Replacement",
+                "Price": 1100
+            },
+            {
+                "ServiceName": "Disc Turning",
+                "Price": 400
+            },
+            {
+                "ServiceName": "Clutch OverHaul",
+                "Price": 4000
+            },
+            {
+                "ServiceName": "Steering Overhaul",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Front Suspension Overhaul",
+                "Price": 3030
+            },
+            {
+                "ServiceName": "Car Engine Issues",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Problem With Car Brakes and Wheels",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Clutch and Transmission Problems",
+                "Price": 3300
+            },
+            {
+                "ServiceName": "Noise with Car suspension and steering",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Faulty Electricals",
+                "Price": 3300
+            },
+            {
+                "ServiceName": "Damaged car body and Interiors",
+                "Price": 12000
+            }
+        ]
+    },
+    {
+        "UserDetails": [
+            {
+                "UserName": "Harpreet Singh",
+                "Email": "Hsingh7743@gmail.com",
+                "Vehicle": "Honda City",
+                "RegNum": "CH01BJ9889"
+            }
+        ],
+        "GarageDetails": [
+            {
+                "GarageName": "Honda Care ",
+                "GarageEmail": "hondaofficial@gmail.com",
+                "GarageAddress": "#723, Sector 43, Chandigarh"
+            }
+        ],
+        "SelectedServices": [
+            {
+                "ServiceName": "Pressure Washing",
+                "Price": 6500
+            },
+            {
+                "ServiceName": "Tyre Dressing and Alloy Polishing",
+                "Price": 3400
+            },
+            {
+                "ServiceName": "Dashboard Polishing",
+                "Price": 300
+            },
+            {
+                "ServiceName": "Alloy Paint",
+                "Price": 6600
+            },
+            {
+                "ServiceName": "Full Body Dent Paint",
+                "Price": 2200
+            },
+            {
+                "ServiceName": "Horn Replacement",
+                "Price": 2900
+            },
+            {
+                "ServiceName": "Rear Windshield Replacement",
+                "Price": 1300
+            },
+            {
+                "ServiceName": "Front Windshield Replacement",
+                "Price": 1400
+            },
+            {
+                "ServiceName": "Door Glass Replacement",
+                "Price": 1100
+            },
+            {
+                "ServiceName": "Disc Turning",
+                "Price": 400
+            }
+        ]
+    },
+    {
+        "UserDetails": [
+            {
+                "UserName": "Harpreet Singh",
+                "Email": "Hsingh7743@gmail.com",
+                "Vehicle": "Honda City",
+                "RegNum": "CH01BJ9889"
+            }
+        ],
+        "GarageDetails": [
+            {
+                "GarageName": "Honda Care ",
+                "GarageEmail": "hondaofficial@gmail.com",
+                "GarageAddress": "#723, Sector 43, Chandigarh"
+            }
+        ],
+        "SelectedServices": [
+            {
+                "ServiceName": "Denting",
+                "Price": 800
+            },
+            {
+                "ServiceName": "Washing",
+                "Price": 200
+            },
+            {
+                "ServiceName": "Interior Sanitazation",
+                "Price": 2400
+            },
+            {
+                "ServiceName": "Tyre Change",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Teflon Coating",
+                "Price": 4090
+            },
+            {
+                "ServiceName": "Anti Rust Coating",
+                "Price": 8990
+            },
+            {
+                "ServiceName": "Ceramic Coating",
+                "Price": 1000
+            },
+            {
+                "ServiceName": "Exterior Polishing and Rubbing",
+                "Price": 2140
+            },
+            {
+                "ServiceName": "Sunroof Service",
+                "Price": 3330
+            },
+            {
+                "ServiceName": "Brake Fluid Replacement",
+                "Price": 1300
+            }
+        ]
+    }
+]

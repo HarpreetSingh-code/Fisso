@@ -1,0 +1,77 @@
+[
+    {
+        "VehicleName": "Alto 800",
+        "VehicleType": "Four",
+        "RegNum": "CH01BJ6767",
+        "GarageName": "Indian Garage",
+        "GarageAddress": "SCO 22, Sector 44,Chandigarh.",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 0
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 0
+            },
+            {
+                "ServiceName": "Insuarance",
+                "Price": 0
+            }
+        ]
+    },
+    {
+        "VehicleName": "Bajaj V15",
+        "VehicleType": "Two",
+        "RegNum": "PB99HS9898",
+        "GarageName": "Bajaj Service Center",
+        "GarageAddress": "SCO 91, Industrial Area, Chandigarh.",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Balancing",
+                "Price": 500
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Brakeoil Replacement:",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "VehicleName": "Honda City",
+        "VehicleType": "Four",
+        "RegNum": "PB99KL8055",
+        "GarageName": "Honda Official",
+        "GarageAddress": "SAS Nagar ,Mohali",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 2500
+            }
+        ]
+    }
+]

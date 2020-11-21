@@ -1,0 +1,86 @@
+[
+    {
+        "CustomerName": "Harpreet Singh",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "VehicleName": "Alto 800",
+        "VehicleType": "Four",
+        "RegNum": "CH01BJ6767",
+        "AppointmentDate": "26/08/2020",
+        "AppointmentTime": "08:00",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 2500
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 3200
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 1500
+            },
+            {
+                "ServiceName": "Insuarance",
+                "Price": 6180
+            }
+        ]
+    },
+    {
+        "CustomerName": "Sunil Bhatia",
+        "Contact": 9501205790,
+        "Email": "BhatiaSunil@gmail.com",
+        "VehicleName": "Bajaj V15",
+        "VehicleType": "Two",
+        "RegNum": "PB99HS9898",
+        "AppointmentDate": "26/08/2020",
+        "AppointmentTime": "13:00",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Balancing",
+                "Price": 500
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Brakeoil Replacement:",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "CustomerName": "Kunal Chauhan",
+        "Contact": 9501205790,
+        "Email": "kunal377@gmail.com",
+        "VehicleName": "Honda City",
+        "VehicleType": "Four",
+        "RegNum": "PB99KL8055",
+        "AppointmentDate": "27/08/2020",
+        "AppointmentTime": "16:30",
+        "servicesDetails": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Coolant Replacement:",
+                "Price": 2500
+            }
+        ]
+    }
+]

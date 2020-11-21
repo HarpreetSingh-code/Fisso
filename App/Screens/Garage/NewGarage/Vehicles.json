@@ -1,0 +1,138 @@
+
+
+{
+    "twoWheeler": [
+      {
+        "id": "1",
+        "key": "Hero",
+        "checked": false
+      },
+      {
+        "id": "2",
+        "key": "Bajaj",
+        "checked": false
+      },
+      {
+        "id": "3",
+        "key": "KTM",
+        "checked": false
+      },
+      {
+        "id": "4",
+        "key": "Honda",
+        "checked": false
+      },
+      {
+        "id": "5",
+        "key": "Royal Enfield",
+        "checked": false
+      },
+      {
+        "id": "6",
+        "key": "TVS",
+        "checked": false
+      },
+      {
+        "id": "7",
+        "key": "Yahama",
+        "checked": false
+      },
+      {
+        "id": "8",
+        "key": "Suzuki",
+        "checked": false
+      },
+      {
+        "id": "9",
+        "key": "Piaggio",
+        "checked": false
+      },
+      {
+        "id": "10",
+        "key": "Kawasaki",
+        "checked": false
+      },
+      {
+        "id": "11",
+        "key": "UM Motorcycles",
+        "checked": false
+      }
+    ],
+    "fourWheeler": [
+      {
+        "id": "12",
+        "key": "Honda",
+        "checked": false
+      },
+      {
+        "id": "13",
+        "key": "Maruti",
+        "checked": false
+      },
+      {
+        "id": "14",
+        "key": "BMW",
+        "checked": false
+      },
+      {
+        "id": "15",
+        "key": "Tata",
+        "checked": false
+      },
+      {
+        "id": "16",
+        "key": "Tesla",
+        "checked": false
+      },
+      {
+        "id": "17",
+        "key": "Toyota",
+        "checked": false
+      },
+      {
+        "id": "18",
+        "key": "bentlay",
+        "checked": false
+      },
+      {
+        "id": "19",
+        "key": "Hyundai",
+        "checked": false
+      },
+      {
+        "id": "20",
+        "key": "Nissan",
+        "checked": false
+      },
+      {
+        "id": "21",
+        "key": "Chevrolet",
+        "checked": false
+      },
+      {
+        "id": "22",
+        "key": "volkswagen",
+        "checked": false
+      },
+      {
+        "id": "23",
+        "key": "Volvo",
+        "checked": false
+      },
+      {
+        "id": "24",
+        "key": "Jeep",
+        "checked": false
+      },
+      {
+        "id": "25",
+        "key": "Fiat",
+        "checked": false
+      },
+      {
+        "id": "26",
+        "key": "Ford",
+        "checked": false
+      }
+    ]
+  }

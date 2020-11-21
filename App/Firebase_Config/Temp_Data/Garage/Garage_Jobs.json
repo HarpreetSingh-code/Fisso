@@ -1,0 +1,231 @@
+[
+    {
+        "Status":"Active",
+        "CustomerName": "Amrita Thakur",
+        "Contact": 9501205790,
+        "Email": "amritathakur556@gmail.com",
+        "Vehicle": "Active 4G",
+        "VehicleType": "Two",
+        "RegNum": "CH09HH6767",
+        "StartedAt":"15:00",
+        "RequestedServices": [
+            {
+                "ServiceName": "Wheel Balancing",
+                "Price": 500
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "Status":"Completed",
+        "CustomerName": "Santosh Kumar",
+        "Contact": 9501205790,
+        "Email": "Skyadav@gmail.com",
+        "Vehicle": "Honda Activa",
+        "VehicleType": "Two",
+        "RegNum": "CH99BB9999",
+        "StartedAt":"14:30",
+        "RequestedServices": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 540
+            },
+            {
+                "ServiceName": "BrakePad Replacement",
+                "Price": 180
+            },
+            {
+                "ServiceName": "Engine Oil Replacement",
+                "Price": 650
+            }
+        ]
+    },
+    {
+        "Status":"Completed",
+        "CustomerName": "Robin Singh Negi",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda Shine",
+        "VehicleType": "Two",
+        "RegNum": "PB99JK9090",
+        "StartedAt":"13:00",
+        "RequestedServices": [
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 1200
+            },
+            {
+                "ServiceName": "Engine Checkup",
+                "Price": 1500
+            },
+            {
+                "ServiceName": "Insuarance",
+                "Price": 6180
+            }
+        ]
+    },
+    {
+        "Status":"Active",
+        "CustomerName": "Amritpal Singh",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda CBR 600",
+        "VehicleType": "Two",
+        "RegNum": "PB88HH7676",
+        "StartedAt":"12:23",
+        "RequestedServices": [
+            
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "Status":"Completed",
+        "CustomerName": "Kunal Chauhan",
+        "Contact": 9878774585,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda Amaze",
+        "VehicleType": "Four",
+        "RegNum": "PB12BJ1212",
+        "StartedAt":"12:03",
+        "RequestedServices": [
+            {
+                "ServiceName": "Wheel Alignment",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Coolant Replacement",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "Status":"Active",
+        "CustomerName": "Ashish Kumar",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda Hornet",
+        "VehicleType": "Two",
+        "RegNum": "HR90HJ8888",
+        "StartedAt":"11:33",
+        "RequestedServices": [
+            {
+                "ServiceName": "Engine Cleaning",
+                "Price": 5000
+            },
+            {
+                "ServiceName": "COVID 19 Sanitaziation",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "BrakePad Replacement",
+                "Price": 1500
+            }
+        ]
+    },
+    {
+        "Status":"Completed",
+        "CustomerName": "Rashi Garg",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda Dio",
+        "VehicleType": "Two",
+        "RegNum": "HR77JJ7777",
+        "StartedAt":"11:12",
+        "RequestedServices": [
+            {
+                "ServiceName": "Denting",
+                "Price": 2500
+            },
+            {
+                "ServiceName": "Washing",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Brakeoil Replacement",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "Status":"Active",
+        "CustomerName": "Navdeep Singh",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda Active 6G",
+        "VehicleType": "Two",
+        "RegNum": "CH90HG7878",
+        "StartedAt":"10:00",
+        "RequestedServices": [
+            {
+                "ServiceName": "Tyre Dressing and Alloy Polishing",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Alloy Paint",
+                "Price": 2000
+            }
+        ]
+    },
+    {
+        "Status":"Active",
+        "CustomerName": "Sunil Bhatia",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda XBlade",
+        "VehicleType": "Two",
+        "RegNum": "CH88JU9090",
+        "StartedAt":"09:45",
+        "RequestedServices": [
+            {
+                "ServiceName": "Faulty Electricals",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Transmission Problems",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Front Suspension Overhaul",
+                "Price": 2500
+            }
+        ]
+    },
+    {
+        "Status":"Completed",
+        "CustomerName": "Atinder Singh",
+        "Contact": 9501205790,
+        "Email": "Hsingh7743@gmail.com",
+        "Vehicle": "Honda City",
+        "VehicleType": "Four",
+        "RegNum": "PB77BH0000",
+        "StartedAt":"09:22",
+        "RequestedServices": [
+            {
+                "ServiceName": "Tyre Change",
+                "Price": 500
+            },
+            {
+                "ServiceName": "Problem With Car Brakes and Wheels",
+                "Price": 2000
+            },
+            {
+                "ServiceName": "Noise with Car suspension and steering",
+                "Price": 2500
+            }
+        ]
+    }
+]

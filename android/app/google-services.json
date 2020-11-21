@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293663353425",
+    "firebase_url": "https://fissoapp-5a79a.firebaseio.com",
+    "project_id": "fissoapp-5a79a",
+    "storage_bucket": "fissoapp-5a79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293663353425:android:e61d2413b73ac694bfa670",
+        "android_client_info": {
+          "package_name": "com.fissoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293663353425-53puv4h4vgon7f6ihs2gnf5gadi89ko2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ACxqAuPBi8-aJRY6agDh3BW5pqoDd9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293663353425-53puv4h4vgon7f6ihs2gnf5gadi89ko2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
